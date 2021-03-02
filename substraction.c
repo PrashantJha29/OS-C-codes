@@ -40,7 +40,7 @@ void* func1()
 	{
 		for(j=0;j<c1;j++)
 		{
-			c[i][j]=a[i][j]+b[i][j];
+			c[i][j]=a[i][j]-b[i][j];
 		}
 	}
 	
